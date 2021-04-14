@@ -1,0 +1,71 @@
+body {
+ background-image: url("../images/fonddddd.jpg");
+}
+
+ul.b {list-style-type: square;}
+
+#test {color:blue;}
+
+div.a {
+	font-family: serif;
+	display : block;
+   border: 1.5px solid black;  
+  width: 550px;
+  height: 80px;
+  
+  box-shadow : 6px 12px grey;
+}
+
+div.b {
+  border: 1.5px solid black; 
+  width: 500px;
+  height: 130px;
+  
+  box-shadow : 6px 12px grey;
+   
+}
+
+div.c {
+ border: 1.5px solid black; 
+    width: 500px;
+  height: 130px;
+  text-shadow: 1px 0.6px black;
+  box-shadow : 6px 12px grey;
+}
+
+div.d {
+	font-weight : bolder;
+  border: 1.5px solid black; 
+    width: 500px;
+  height: 130px;
+  box-shadow : 6px 12px grey;
+}
+div.e {
+	font-size: 20px;
+	 font-style: italic;
+  border: 1.5px solid black; 
+    width: 500px;
+  height: 130px;
+  
+  box-shadow : 6px 12px grey;
+}
+div.f {
+   border: 1.5px solid black; 
+   width: 500px;
+  height: 130px;
+ background-color : grey;
+ box-shadow : radius;
+  
+}
+
+img {
+	
+     margin : 10px 10px;
+     width: 500px;
+}
+	
+img#lampp {     
+     width: 180px;
+	 float:right;
+	 
+}
